@@ -42,10 +42,10 @@ This version is prepared for public source control:
 
 ## Personal Branding
 
-برای استفاده در برند شخصی، این بخش را با اطلاعات خودتان تکمیل کنید:
+این پروژه بخشی از نمونه‌کار فنی من در حوزه بازآرایی سامانه‌های enterprise و آماده‌سازی سورس‌های legacy برای استفاده مجدد و انتشار عمومی است.
 
 - نام / برند: `Mehdi Ejazi`
-- نقش: `Java Backend Developer | Middleware Engineer | DevOps`
-- معرفی کوتاه: `I modernize and sanitize legacy enterprise systems for reusable public distribution.`
+- نقش: `Java Backend Developer | Middleware Engineer | Legacy Modernization`
+- معرفی کوتاه: `I work on legacy Java EE systems, WebLogic operations, deployment workflows, and sanitizing enterprise codebases for reusable public distribution.`
 - GitHub: `https://github.com/mehdiejazi`
 - LinkedIn یا وب‌سایت: `https://www.linkedin.com/in/mehdi-ejazi/`
