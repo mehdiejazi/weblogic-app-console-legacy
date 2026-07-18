@@ -1,0 +1,1 @@
+cd /home/oracle/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain/bin && . ./setDomainEnv.sh &&  java weblogic.Deployer -adminurl $1 -username $2 -password $3 -redeploy -source $4 -name $5

@@ -1,0 +1,95 @@
+@font-face{
+    font-family: BYekan;
+    src: url("fonts/BYekan.eof?#"),
+        url("fonts/BYekan.woff"),
+        url("fonts/BYekan.ttf");
+}
+body
+{
+    border: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: normal;
+    font-weight: bold;
+    background: whitesmoke;
+}
+
+#Base
+{
+    width:790px;
+    margin:0px auto 0px auto;
+    top:40%;
+
+}
+#Base .Error
+{
+    background-color: rgb(145, 208, 238);
+    width: 782px;
+    top:-20px;
+    position: relative;
+    background: url("images/loginback.png") repeat-x 0 0 ;
+    height: 250px;
+    text-align: right;
+    direction: rtl;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px #C0C0C0;
+}
+.Error .Title
+{
+    font-family: BYekan;
+    font-size:25px;
+    font-weight:bold;
+    margin-right:10px; 
+    color:red;
+}
+
+.main{
+    height:210px;
+    background: url("images/mainback.png") repeat-x 0 0 ;
+    top: 150px;
+    position: relative;
+}
+.Error .Description
+{
+    font-family: BYekan;
+    font-size: 16px;
+    margin-right: 10px;
+    font-weight: normal;
+    margin: 70px;
+    text-align: justify;
+    top: 0px;
+    position: absolute;
+}
+.Error table
+{
+    width:450px;
+    margin:30px auto 0px auto;
+}
+#Top .Image
+{
+    margin:-70px -30px 0px 0px;
+    float:right;
+    width:200px;
+}
+#Top .Largered
+{
+    color: rgb(0, 10, 255);
+    font-family:BYekan;
+    font-weight: bold;
+    font-size:25px;
+    width:487px;
+    float:left;
+}
+#Top .image
+{
+    margin:-70px -30px 0px 0px;
+    float:right;
+    width:200px;
+}
+.Email
+{
+    direction:ltr;
+    float:left;
+}	

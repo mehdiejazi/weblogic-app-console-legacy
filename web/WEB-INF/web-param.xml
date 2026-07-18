@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+      <!-- Weblogic Items -->
+    <context-param>
+        <param-name>appName</param-name>
+        <param-value>sample-app</param-value>
+    </context-param>
+    <context-param>
+        <param-name>wlAdminURL</param-name>
+        <param-value>t3://weblogic-host:7001</param-value>
+    </context-param>
+    <context-param>
+        <param-name>wlUsername</param-name>
+        <param-value>weblogic</param-value>
+    </context-param>
+    <context-param>
+        <param-name>wlPassword</param-name>
+        <param-value>change-me</param-value>
+    </context-param>
+    <!-- /Weblogic Items -->
+    <!-- Deploy Server  -->
+    <context-param>
+        <param-name>sftpDeployHostIP</param-name>
+        <param-value>deploy-host</param-value>
+    </context-param>
+    <context-param>
+        <param-name>sftpDeployWorkingDir</param-name>
+        <param-value>/opt/app-console/deploy</param-value>
+    </context-param>
+    <context-param>
+        <param-name>sftpDeployUsername</param-name>
+        <param-value>deploy-user</param-value>
+    </context-param>
+    <context-param>
+        <param-name>sftpDeployPassword</param-name>
+        <param-value>change-me</param-value>
+    </context-param>
+    <!-- /Deploy Server -->
+    <!-- Backup Server  -->
+    <context-param>
+        <param-name>sftpBackupHostIP</param-name>
+        <param-value>backup-host</param-value>
+    </context-param>
+    <context-param>
+        <param-name>sftpBackupWorkingDir</param-name>
+        <param-value>/opt/app-console/backup</param-value>
+    </context-param>
+    <!-- /Backup Server  -->
+
+</root>

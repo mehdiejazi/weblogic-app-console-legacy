@@ -1,0 +1,1 @@
+cd /home/oracle/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain/bin && . ./setDomainEnv.sh && cd bin && . ./startWebLogic.sh -Dweblogic.management.username=$1 -Dweblogic.management.password=$2 -Dweblogic.system.StoreBootIdentity=true

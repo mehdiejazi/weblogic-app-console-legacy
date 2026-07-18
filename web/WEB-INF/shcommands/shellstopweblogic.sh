@@ -1,0 +1,1 @@
+cd /home/oracle/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain/bin && . ./setDomainEnv.sh && cd bin && . ./stopWebLogic.sh $1 $2

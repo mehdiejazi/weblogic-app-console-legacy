@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="model.to">
+    <class name="LogTo" table="LOG">
+        <id name="id" type="long" column="LOGID">
+            <generator class="increment"/>
+        </id>
+        <property name="IP" type="java.lang.String" column="IP"/>
+        <property name="Username" type="java.lang.String" column="USERNAME"/>
+        <property name="Event" type="java.lang.String" column="EVENT"/>
+        <property name="GDate" type="java.lang.String" column="GDATE"/>
+        <property name="PDate" type="java.lang.String" column="PDATE"/>
+        <property name="Time" type="java.lang.String" column="TIME"/>
+    </class>
+</hibernate-mapping>

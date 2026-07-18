@@ -1,0 +1,1 @@
+cd /home/oracle/Oracle/Middleware/Oracle_Home/wlserver/server/bin && . ./setWLSEnv.sh && java weblogic.Admin  -url $1 -username $2 -password $3 GETSTATE
