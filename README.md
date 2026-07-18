@@ -28,3 +28,24 @@ This version is prepared for public source control:
 - Domain-specific labels were removed from code and UI text
 - Hard-coded database credentials and infrastructure addresses were replaced with placeholders
 - Generic context paths, artifact names, working directories, and activity log names were introduced for reuse
+
+## معرفی فارسی
+
+این پروژه یک نمونه قدیمی و بازنویسی‌شده از کنسول استقرار و پایش برای WebLogic است که با ساختار legacy نگه داشته شده و برای استفاده عمومی، نمونه‌سازی، توسعه داخلی و انتشار در GitHub آماده شده است.
+
+اگر این مخزن را به عنوان بخشی از برند شخصی خود منتشر می‌کنید، می‌توانید این پروژه را به عنوان نمونه‌ای از تجربه خود در حوزه‌های زیر معرفی کنید:
+
+- نگهداری و بازآرایی سامانه‌های legacy مبتنی بر Java EE
+- پیاده‌سازی فرایندهای استقرار و عملیات برای WebLogic
+- عمومی‌سازی و آماده‌سازی سورس سازمانی برای انتشار عمومی
+- بازطراحی پیکربندی‌ها و حذف وابستگی‌های محیطی و سازمانی
+
+## Personal Branding
+
+برای استفاده در برند شخصی، این بخش را با اطلاعات خودتان تکمیل کنید:
+
+- نام / برند: `Mehdi Ejazi`
+- نقش: `Java Backend Developer | Middleware Engineer | DevOps`
+- معرفی کوتاه: `I modernize and sanitize legacy enterprise systems for reusable public distribution.`
+- GitHub: `https://github.com/mehdiejazi`
+- LinkedIn یا وب‌سایت: `https://www.linkedin.com/in/mehdi-ejazi/`
